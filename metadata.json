@@ -1,0 +1,5 @@
+{
+  "name": "Catálogo de Produtos Digitais",
+  "description": "Uma aplicação web para exibir e gerenciar um catálogo de produtos digitais, com um painel administrativo integrado para adicionar novos produtos usando IA para gerar descrições.",
+  "requestFramePermissions": []
+}
